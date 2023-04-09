@@ -1,1 +1,3 @@
 # Feature_Importance_exploration
+
+In this project, I explored the various ways of determining feature importance and feature selection such as using the Spearman Rank Correlation Coefficient, PCA dimension reduction, sklearn SelectFromModel, and SHAP and see if their results are similar to each other and determine the top "x" important features. The next step could be exploring other techniques such as permutation importance and applying these techniques on High-dimensional datasets.
